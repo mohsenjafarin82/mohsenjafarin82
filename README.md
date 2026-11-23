@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mohsenjafarin82
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi
 
 <!---
 mohsenjafarin82/mohsenjafarin82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
